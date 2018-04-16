@@ -1,0 +1,6 @@
+public static int doMath ()
+{
+	int x = 5;
+	x++;
+	return x;
+}
